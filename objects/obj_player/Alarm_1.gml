@@ -1,0 +1,1 @@
+canMine = true;
